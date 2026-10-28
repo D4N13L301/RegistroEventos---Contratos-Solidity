@@ -32,3 +32,6 @@ Estados: Inexistente=0, Pendiente=1, Aceptada=2, Rechazada=3, Reemplazada=4.
 
 ## Validación
 Los tests suministrados son autocontenidos. La compilación y ejecución en Remix son pasos a realizar por el usuario: **no se declara que estén aprobados hasta ejecutarlos**. Guardar captura de pruebas y dirección del contrato si se despliega en Sepolia.
+=======
+# RegistroEventos---Contratos-Solidity
+4cc0d7533d2d0e2fb212b62d830864f0ff4bd45b
